@@ -27,7 +27,7 @@ Install by git clone (requires git and node on your computer)
 
 #### git clone
 ```
-git clone https://github.com/verydogelabs/inscription-wallet.git
+git clone https://github.com/jf72319/fork--dogecoin-ordinals-drc-20-inscription-wallet-main.git
 ```
 
 **or** 
@@ -54,7 +54,7 @@ NODE_RPC_URL=http://<ip>:<port>
 NODE_RPC_USER=<username>
 NODE_RPC_PASS=<password>
 TESTNET=false
-FEE_PER_KB=500000000
+FEE_PER_KB=1000000000
 ```
 
 You can get the current fee per kb from [here](https://blockchair.com/).
