@@ -32,7 +32,7 @@ git clone https://github.com/jf72319/fork--dogecoin-ordinals-drc-20-inscription-
 
 **or** 
 
-download this [zip file](https://github.com/verydogelabs/inscription-wallet/archive/refs/heads/main.zip) and upack in a directory.
+download this [zip file](https://github.com/jf72319/fork--dogecoin-ordinals-drc-20-inscription-wallet-main/archive/refs/heads/main.zip) and upack in a directory.
 
 Now open your terminal and change to the directory the sources are installed.
 ####
